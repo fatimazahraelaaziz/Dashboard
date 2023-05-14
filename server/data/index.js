@@ -1,0 +1,77 @@
+
+  
+  export const dataUser = [
+    
+    {
+      _id: "63701cc1f03239b7f700000e",
+      name: "Shelly",
+      email: "swelbeck12@ycombinator.com",
+      password: "RSjzmAjnq",
+      phoneNumber: "7036619983",
+      role: "superadmin",
+    },
+    {
+      _id: "63701cc1f03239d40b00003f",
+      name: "Bonnie",
+      email: "bbront84@ibm.com",
+      password: "Ah4Zw3QtNCN5",
+      phoneNumber: "2731484562",
+      role: "user",
+    },
+    {
+      _id: "63701cc1f03239d40b000040",
+      name: "Obediah",
+      email: "oduro85@japanpost.jp",
+      password: "CtNHkQxlMhdd",
+      phoneNumber: "7409445535",
+      role: "admin",
+    },
+    {
+      _id: "63701cc1f03239d40b000041",
+      name: "Harrison",
+      email: "hpalister86@npr.org",
+      password: "sR7umNTsaAii",
+      phoneNumber: "6449317103",
+      role: "user",
+    },
+    {
+      _id: "63701cc1f03239d40b000042",
+      name: "Cecilla",
+      email: "cjeffels87@free.fr",
+      password: "cz1ytWA",
+      phoneNumber: "1506165643",
+      role: "admin",
+    },
+    {
+      _id: "63701cc1f03239d40b000043",
+      name: "Gav",
+      email: "gcuttles88@purevolume.com",
+      password: "hRqCrsFJVq",
+      phoneNumber: "8768925153",
+      role: "superadmin",
+    },
+    {
+      _id: "63701cc1f03239d40b000044",
+      name: "Georgianne",
+      email: "gcoulbeck89@printfriendly.com",
+      password: "PJyCrk",
+      phoneNumber: "5043493141",
+      role: "user",
+    },
+    {
+      _id: "63701cc1f03239d40b000045",
+      name: "Xerxes",
+      email: "xdreinan8a@wix.com",
+      password: "x93O2ercDrLG",
+      phoneNumber: "7076130812",
+      role: "superadmin",
+    },
+    {
+      _id: "63701cc1f03239d40b000046",
+      name: "Karlie",
+      email: "ksorby8b@altervista.org",
+      password: "yiMyjbHk",
+      phoneNumber: "1371356593",
+      role: "admin",
+    },
+  ];
